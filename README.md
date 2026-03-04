@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/Prasanna-KS-85.png" width="150" style="border-radius:50%">
+</p>
 <h1 align="center">Hey there 👋 I'm Prasanna Kumar</h1>
 
 <p align="center">
@@ -14,6 +17,9 @@
   </a>
   <a href="https://leetcode.com/u/Prasanna__85/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.instagram.com/prasanna__85">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -63,10 +69,13 @@ I care about making models that are efficient and interpretable, not just accura
 
 **Tools & Environment**
 
+**Tools & Environment**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
