@@ -91,17 +91,15 @@ I care about making models that are efficient and interpretable, not just accura
 
 ---
 
-## 🧪 Things I've worked on
+## 📄 Resume
 
-→ **FractDetect-AE-OIC** — a region-aware compression pipeline for orthopaedic X-rays combining YOLO-based fracture detection with a CBAM-enhanced autoencoder to preserve diagnostic regions while compressing background information.
+If you'd like to know more about my work, research, and projects, feel free to check out my resume.
 
-→ **Domain-Adaptive ROP Diagnosis** — a multi-stage deep learning framework for Retinopathy of Prematurity screening using DenseNet architectures with attention mechanisms and Grad-CAM explainability.
-
-→ **Event Photo Organizer** — a privacy-aware face clustering pipeline using DeepFace embeddings and K-Means to automatically group event photos based on identity similarity.
-
-→ **Banana Nutrient Deficiency Detection** — an ensemble CNN system (MobileNetV2, ResNet50V2, InceptionV3) trained on augmented leaf datasets to classify plant nutrient deficiencies.
-
-→ **Post-Quantum Secure Insurance System** — a prototype claims framework integrating CRYSTALS-Kyber/Dilithium cryptography with AI-based fraud detection and Merkle-based audit logs.
+<p align="center">
+  <a href="https://drive.google.com/file/d/1qQlrdDvi_calBXj_6TKTGsFrf5TXMr54/view?usp=sharing">
+    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
 
 
 <p align="center">
