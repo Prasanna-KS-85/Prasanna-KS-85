@@ -5,8 +5,7 @@
 <h1 align="center">Prasanna Kumar</h1>
 
 <p align="center">
-Deep Learning · Computer Vision · Applied AI
-</p>
+M.Tech Data Science student exploring Machine Learning | Computer Vision | Practical AI systems.</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/prasanna-kumar-k-s">
