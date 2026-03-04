@@ -95,21 +95,6 @@ I care about making models that are efficient and interpretable, not just accura
 
 → **Post-Quantum Secure Insurance System** — a prototype claims framework integrating CRYSTALS-Kyber/Dilithium cryptography with AI-based fraud detection and Merkle-based audit logs.
 
----
-
-## 📚 Research threads I keep coming back to
-
-- Why do attention maps sometimes highlight the wrong regions, and what does that tell us about the training data?
-- How much accuracy are we *actually* trading when we distil a model for edge deployment?
-- Can compression be clinically safe? (Spoiler: it depends heavily on what's being compressed)
-
----
-
-## 💬 Ask me about
-
-Grad-CAM · CBAM · HAM10000 pipelines · Medical image preprocessing · Knowledge distillation · Why your model is overfitting (probably)
-
----
 
 <p align="center">
   <i>Open to research collaborations, internship opportunities, and the occasional deep learning rabbit hole.<br/>If something here interests you, feel free to reach out.</i>
