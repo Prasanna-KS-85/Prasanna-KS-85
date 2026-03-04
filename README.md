@@ -26,11 +26,11 @@ M.Tech Data Science student exploring Machine Learning | Computer Vision | Pract
 
 ## 🙋 A bit about me
 
-I'm a postgrad student in Data Science, currently based in Chennai. Most of my time goes into building deep learning systems — the kind that are meant to actually be useful, not just benchmark well.
+I'm a postgraduate student in Data Science based in Chennai, currently spending most of my time building and experimenting with deep learning systems. I'm particularly interested in models that solve real problems — not just ones that perform well on benchmarks.
 
-I got seriously into computer vision through healthcare AI work — things like skin lesion classification, retinal imaging, and medical image compression. Somewhere along the way I got hooked on the question of *why* a model makes the decisions it does, which pulled me toward Explainable AI and attention mechanisms.
+My interest in computer vision grew through working on healthcare AI projects involving retinal imaging, skin lesion analysis, and medical image compression. These projects made me curious about how models actually make decisions, which led me toward attention mechanisms and explainable AI.
 
-I care about making models that are efficient and interpretable, not just accurate. If it can't explain itself a little, I'm not fully convinced it works.
+Lately I've been exploring ways to make models more practical — improving interpretability, reducing model size, and designing pipelines that could realistically run in clinical or edge environments.
 
 ---
 
