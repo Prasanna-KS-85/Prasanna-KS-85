@@ -23,7 +23,7 @@
 
 I'm a postgrad student in Data Science, currently based in Chennai. Most of my time goes into building deep learning systems — the kind that are meant to actually be useful, not just benchmark well.
 
-I got seriously into computer vision through healthcare AI work — things like skin lesion classification, retinal imaging, and chest X-ray compression. Somewhere along the way I got hooked on the question of *why* a model makes the decisions it does, which pulled me toward Explainable AI and attention mechanisms.
+I got seriously into computer vision through healthcare AI work — things like skin lesion classification, retinal imaging, and medical image compression. Somewhere along the way I got hooked on the question of *why* a model makes the decisions it does, which pulled me toward Explainable AI and attention mechanisms.
 
 I care about making models that are efficient and interpretable, not just accurate. If it can't explain itself a little, I'm not fully convinced it works.
 
@@ -34,7 +34,7 @@ I care about making models that are efficient and interpretable, not just accura
 - **Deep Learning** — CNNs, attention mechanisms (CBAM), knowledge distillation  
 - **Computer Vision** — medical imaging, segmentation, ROI-aware pipelines  
 - **Explainable AI** — Grad-CAM, feature attribution, understanding model behaviour  
-- **Healthcare AI** — skin lesion classification, chest X-ray analysis, retinal imaging  
+- **Healthcare AI** — skin lesion classification, retinal imaging, medical image compression  
 - **Efficient Models** — lightweight architectures, edge deployment thinking  
 
 ---
@@ -85,13 +85,15 @@ I care about making models that are efficient and interpretable, not just accura
 
 ## 🧪 Things I've worked on
 
-→ Skin lesion classification on HAM10000 using ensemble CNN architectures with attention modules and focal loss for handling class imbalance
+→ **FractDetect-AE-OIC** — a region-aware compression pipeline for orthopaedic X-rays combining YOLO-based fracture detection with a CBAM-enhanced autoencoder to preserve diagnostic regions while compressing background information.
 
-→ Chest X-ray autoencoder with ROI-aware reconstruction — the idea being that not every pixel in an X-ray deserves equal compression effort
+→ **Domain-Adaptive ROP Diagnosis** — a multi-stage deep learning framework for Retinopathy of Prematurity screening using DenseNet architectures with attention mechanisms and Grad-CAM explainability.
 
-→ ROP (Retinopathy of Prematurity) classification with knowledge distillation to bring the model down to edge-deployable size
+→ **Event Photo Organizer** — a privacy-aware face clustering pipeline using DeepFace embeddings and K-Means to automatically group event photos based on identity similarity.
 
-→ Emotion-Aware Handwriting Analysis for cognitive stress detection — combining CV with behavioural signals
+→ **Banana Nutrient Deficiency Detection** — an ensemble CNN system (MobileNetV2, ResNet50V2, InceptionV3) trained on augmented leaf datasets to classify plant nutrient deficiencies.
+
+→ **Post-Quantum Secure Insurance System** — a prototype claims framework integrating CRYSTALS-Kyber/Dilithium cryptography with AI-based fraud detection and Merkle-based audit logs.
 
 ---
 
