@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://github.com/Prasanna-KS-85.png" width="150" style="border-radius:50%">
+<img src="https://github.com/Prasanna-KS-85.png" width="150">
 </p>
-<h1 align="center">Hey there 👋 I'm Prasanna Kumar</h1>
+
+<h1 align="center">Prasanna Kumar</h1>
 
 <p align="center">
-  <b>M.Tech Data Science · Deep Learning · Computer Vision · Applied AI</b><br/>
-  <i>Building things that (hopefully) work in the real world, not just on paper.</i>
+Deep Learning · Computer Vision · Applied AI
 </p>
 
 <p align="center">
