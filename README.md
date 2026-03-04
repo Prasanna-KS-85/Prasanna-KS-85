@@ -104,7 +104,7 @@ Lately I've been exploring ways to make models more practical — improving inte
 If you'd like to know more about my work, research, and projects, feel free to check out my resume.
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1qQlrdDvi_calBXj_6TKTGsFrf5TXMr54/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1OhN9Uk96t4KetC5T2yaphy3_f6-U500f/view?usp=sharing">
     <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
