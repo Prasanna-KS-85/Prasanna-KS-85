@@ -1,7 +1,7 @@
 # Hi 👋 I'm Prasanna Kumar
 
-🎓 M.Tech Data Science student  
-🤖 Interested in Deep Learning, Computer Vision, and Applied AI Systems  
+🎓 M.Tech Data Science Student  
+🤖 Deep Learning | Computer Vision | Applied AI Systems  
 📍 Chennai, India  
 
 ---
@@ -11,42 +11,50 @@
 I enjoy building machine learning systems that solve practical problems.  
 My work mainly focuses on deep learning, computer vision, and efficient AI models for real-world applications.
 
-Through internships and research work, I have explored areas such as healthcare AI, structured ML pipelines, and model interpretability. I am particularly interested in understanding how machine learning systems move from research ideas to reliable applications.
+Through internships and research work, I have explored healthcare-focused AI systems, structured ML pipelines, and model interpretability. I am particularly interested in understanding how machine learning models move from research ideas to reliable real-world applications.
 
 ---
 
-## 🔍 Areas I Work In
+## 🔍 Areas of Interest
 
-- Deep Learning
-- Computer Vision
-- Explainable AI
-- Healthcare AI
-- ML System Design
-- Efficient AI Models
+- Deep Learning  
+- Computer Vision  
+- Explainable AI (XAI)  
+- Healthcare AI  
+- Efficient AI Systems  
+- ML System Design  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
+![Languages](https://skillicons.dev/icons?i=python,java,cpp,c)
 
-Python | Java | C++ | C  
+### Machine Learning
+![ML](https://skillicons.dev/icons?i=tensorflow)
 
-**ML & AI**
+Scikit-learn • DeepFace • Pandas
 
-TensorFlow | Scikit-learn | DeepFace  
+### Databases
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
 
-**Data & Visualization**
+### Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
-Pandas | R | Tableau | Power BI  
+Jupyter Notebook • Google Colab
 
-**Databases**
+---
 
-MySQL | PostgreSQL | MongoDB  
+## 📊 GitHub Stats
 
-**Tools**
+![Prasanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasanna-KS-85&show_icons=true&theme=tokyonight)
 
-Git | GitHub | VS Code | Jupyter | Google Colab  
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Prasanna-KS-85&theme=tokyonight)
 
 ---
 
@@ -61,9 +69,14 @@ Git | GitHub | VS Code | Jupyter | Google Colab
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://linkedin.com/in/prasanna-kumar-k-s  
-GitHub: https://github.com/Prasanna-KS-85  
-LeetCode: https://leetcode.com/u/Prasanna__85/
+🔗 LinkedIn:  
+https://linkedin.com/in/prasanna-kumar-k-s  
+
+💻 GitHub:  
+https://github.com/Prasanna-KS-85  
+
+🧠 LeetCode:  
+https://leetcode.com/u/Prasanna__85/
 
 ---
 
