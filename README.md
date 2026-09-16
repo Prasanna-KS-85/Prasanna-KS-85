@@ -89,8 +89,6 @@ Currently exploring domain adaptation, learned image compression, and multi-agen
 ---
 
 
----
-
 ## Activity
 
 <div align="center">
