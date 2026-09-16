@@ -88,48 +88,6 @@ Currently exploring domain adaptation, learned image compression, and multi-agen
 
 ---
 
-## Experience
-
-**Data Science Intern** — Centre for Disaster Mitigation and Management, VIT Vellore
-`May 2025 – Jun 2025`
-
-Worked on multi-station CPCB air-quality time series (2022–2024), engineering statistical features around festival-period pollution spikes across PM2.5, NO2, NOx and SO2. Built Random Forest and XGBoost models (MAE ≈ 32, RMSE ≈ 39) into a 7-day AQI forecasting framework with risk-level categorisation for early-warning use.
-
-**Medical Software Development Intern** — Mocero Healthcare Solutions, IIT Madras Research Park
-`Jun 2025 – Jul 2025`
-
-Modelled three clinical care pathways across five specialities into structured, backend-ready JSON aligned with NOTTO and SOTTO guidelines. Built a Google Trends–integrated pipeline over 75+ medical terms feeding a RAG-based retrieval workflow used to generate healthcare content assets.
-
----
-
-## Projects
-
-**[Real-Time Transport Delay Analytics Platform](https://github.com/Prasanna-KS-85)**
-Streaming ETL pipeline for live transit delay monitoring, with online anomaly detection via Welford's algorithm and a graph-based contagion model for predictive disruption alerts.
-`Scala` `Kafka` `Spark Structured Streaming` `PostgreSQL` `React`
-
-**[Privacy-Aware Event Photo Clustering and Dispatch System](https://github.com/Prasanna-KS-85)**
-End-to-end facial clustering pipeline reaching 98.5% ARI on LFW, with a human-in-the-loop correction step, automated ZIP dispatch over SMTP, and cleanup of temporary biometric data.
-`DeepFace` `FaceNet` `HDBSCAN` `K-Means` `SMTP`
-
-**[Civic Sentinel — Geospatial Incident Management](https://github.com/Prasanna-KS-85)**
-Multi-agent NLP system for multilingual civic complaints: DistilBERT classification and priority scoring, spatial-temporal clustering to surface systemic failures, a truth-verification agent for fraud filtering, and a 3D command-centre dashboard.
-`DistilBERT` `VADER` `NLP` `PyDeck` `Google Maps API`
-
-**[Explainable Road Risk Prediction](https://github.com/Prasanna-KS-85)**
-Road risk assessment workflow combining YOLO-based feature extraction, unsupervised clustering and a tuned MLP classifier, reaching 95.3% accuracy with explainability layered over the predictions.
-`YOLO` `OpenCV` `K-Means` `MLP` `XAI`
-
----
-
-## Patents & Publications
-
-| Title | Application No. | Status |
-|---|---|---|
-| Domain-Adaptive Multi-Stage Retinopathy of Prematurity Diagnosis using Attention-Enhanced Deep Learning | 202641007493 | Published, 2026 |
-| Unified Preprocessing System for Device-Agnostic Neonatal Retinal Imaging and AI-Based ROP Screening | 202541105099 | Published, 2025 |
-| Multi-Stage Deep Learning Framework for Rice Leaf Disease and Nutrient Deficiency Diagnosis | 202641031018 | Published, 2026 |
-| FractDetect-AE-OIC — X-ray compression framework (8.59× compression, 34.81 dB PSNR in diagnostic regions, 5.3 MB model) | Journal | Under review, 2026 |
 
 ---
 
