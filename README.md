@@ -1,103 +1,174 @@
-<p align="center">
-<img src="https://github.com/Prasanna-KS-85.png" width="150">
-</p>
+<div align="center">
 
-<h1 align="center">Prasanna Kumar</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prasanna%20Kumar%20KS&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=56&descSize=16"/>
 
-<p align="center">
-M.Tech Data Science student exploring Machine Learning | Computer Vision | Practical AI systems.</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6D28D9&center=true&vCenter=true&width=680&lines=Integrated+M.Tech+Data+Science+%40+VIT+Vellore;Deep+learning+for+medical+imaging;Computer+vision%2C+XAI+and+efficient+architectures" alt="Typing SVG"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/prasanna-kumar-k-s">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Prasanna-KS-85">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Prasanna__85/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.instagram.com/prasanna__85">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/EDUCATION-Integrated%20M.Tech%20Data%20Science-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-Computer%20Vision%20%26%20Explainable%20AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASED%20IN-Chennai%2C%20India-4C1D95?style=for-the-badge"/>
 
-## 👋 About me
+<br/><br/>
 
-I'm a postgraduate student in Data Science based in Chennai who enjoys building and experimenting with deep learning systems, especially in computer vision. Much of my work revolves around medical imaging — from retinal screening and skin lesion analysis to image compression for clinical data.
+<a href="https://linkedin.com/in/prasanna-kumar-k-s">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ksprasanna1719@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Prasanna-KS-85">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Prasanna__85/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-Lately I've been exploring how to make ML models more practical and interpretable, working with attention mechanisms, explainable AI methods, and lightweight architectures that could realistically run in real-world environments.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About
+
+I'm an Integrated M.Tech Data Science student at VIT Vellore, working mainly on deep learning for medical imaging — retinopathy of prematurity screening, skin lesion analysis, and diagnostic image compression.
+
+Most of what I build sits at the point where a model has to survive contact with real data: device-agnostic preprocessing, attention mechanisms that hold up across domains, explainability so a prediction can be questioned, and architectures small enough to actually deploy. Outside medical imaging I work on streaming data systems and applied NLP.
+
+Currently exploring domain adaptation, learned image compression, and multi-agent NLP pipelines.
+
+---
+
+## Tech Stack
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-**ML / DL**
+**Machine Learning & Deep Learning**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-**Databases**
+**Data & Web**
 
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## 🌐 Web Development
-
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Tools & Environment**
+**Tools, Cloud & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
+## Experience
 
-## 📊 Coding Activity
+**Data Science Intern** — Centre for Disaster Mitigation and Management, VIT Vellore
+`May 2025 – Jun 2025`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasanna-KS-85&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Prasanna-KS-85&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+Worked on multi-station CPCB air-quality time series (2022–2024), engineering statistical features around festival-period pollution spikes across PM2.5, NO2, NOx and SO2. Built Random Forest and XGBoost models (MAE ≈ 32, RMSE ≈ 39) into a 7-day AQI forecasting framework with risk-level categorisation for early-warning use.
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Prasanna__85?theme=dark&font=Baloo&ext=contest"/>
-</p>
+**Medical Software Development Intern** — Mocero Healthcare Solutions, IIT Madras Research Park
+`Jun 2025 – Jul 2025`
+
+Modelled three clinical care pathways across five specialities into structured, backend-ready JSON aligned with NOTTO and SOTTO guidelines. Built a Google Trends–integrated pipeline over 75+ medical terms feeding a RAG-based retrieval workflow used to generate healthcare content assets.
 
 ---
 
-## 📄 Resume
+## Projects
 
-If you'd like to know more about my work, research, and projects, feel free to check out my resume.
+**[Real-Time Transport Delay Analytics Platform](https://github.com/Prasanna-KS-85)**
+Streaming ETL pipeline for live transit delay monitoring, with online anomaly detection via Welford's algorithm and a graph-based contagion model for predictive disruption alerts.
+`Scala` `Kafka` `Spark Structured Streaming` `PostgreSQL` `React`
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/17Pm9l1_gO5b7hAZk6fMBbPRBYhbNwilo/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
-</p>
+**[Privacy-Aware Event Photo Clustering and Dispatch System](https://github.com/Prasanna-KS-85)**
+End-to-end facial clustering pipeline reaching 98.5% ARI on LFW, with a human-in-the-loop correction step, automated ZIP dispatch over SMTP, and cleanup of temporary biometric data.
+`DeepFace` `FaceNet` `HDBSCAN` `K-Means` `SMTP`
 
+**[Civic Sentinel — Geospatial Incident Management](https://github.com/Prasanna-KS-85)**
+Multi-agent NLP system for multilingual civic complaints: DistilBERT classification and priority scoring, spatial-temporal clustering to surface systemic failures, a truth-verification agent for fraud filtering, and a 3D command-centre dashboard.
+`DistilBERT` `VADER` `NLP` `PyDeck` `Google Maps API`
 
-<p align="center">
-  <i>Open to research collaborations, internship opportunities, and the occasional deep learning rabbit hole.<br/>If something here interests you, feel free to reach out.</i>
-</p>
+**[Explainable Road Risk Prediction](https://github.com/Prasanna-KS-85)**
+Road risk assessment workflow combining YOLO-based feature extraction, unsupervised clustering and a tuned MLP classifier, reaching 95.3% accuracy with explainability layered over the predictions.
+`YOLO` `OpenCV` `K-Means` `MLP` `XAI`
+
+---
+
+## Patents & Publications
+
+| Title | Application No. | Status |
+|---|---|---|
+| Domain-Adaptive Multi-Stage Retinopathy of Prematurity Diagnosis using Attention-Enhanced Deep Learning | 202641007493 | Published, 2026 |
+| Unified Preprocessing System for Device-Agnostic Neonatal Retinal Imaging and AI-Based ROP Screening | 202541105099 | Published, 2025 |
+| Multi-Stage Deep Learning Framework for Rice Leaf Disease and Nutrient Deficiency Diagnosis | 202641031018 | Published, 2026 |
+| FractDetect-AE-OIC — X-ray compression framework (8.59× compression, 34.81 dB PSNR in diagnostic regions, 5.3 MB model) | Journal | Under review, 2026 |
+
+---
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prasanna-KS-85&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Prasanna-KS-85&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/Prasanna__85?theme=dark&font=Baloo&ext=contest"/>
+
+</div>
+
+---
+
+## Resume & Contact
+
+<div align="center">
+
+<a href="https://drive.google.com/file/d/17Pm9l1_gO5b7hAZk6fMBbPRBYhbNwilo/view?usp=sharing">
+  <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/prasanna-kumar-k-s">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ksprasanna1719@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/prasanna__85">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<i>Open to research collaborations and internship opportunities.<br/>If something here overlaps with what you're working on, feel free to reach out.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
