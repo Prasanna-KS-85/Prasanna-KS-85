@@ -24,6 +24,9 @@
 <a href="https://leetcode.com/u/Prasanna__85/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+<a href="https://www.hackerrank.com/profile/ksprasanna1719">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
 
 </div>
 
