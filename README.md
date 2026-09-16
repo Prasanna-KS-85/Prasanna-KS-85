@@ -34,11 +34,11 @@
 
 ## About
 
-I'm an Integrated M.Tech Data Science student at VIT Vellore, working mainly on deep learning for medical imaging — retinopathy of prematurity screening, skin lesion analysis, and diagnostic image compression.
+I’m an Integrated M.Tech Data Science student at VIT Vellore, interested in deep learning and its application to medical imaging.
 
-Most of what I build sits at the point where a model has to survive contact with real data: device-agnostic preprocessing, attention mechanisms that hold up across domains, explainability so a prediction can be questioned, and architectures small enough to actually deploy. Outside medical imaging I work on streaming data systems and applied NLP.
+My current work focuses on problems such as retinopathy of prematurity screening, skin lesion analysis, and diagnostic image compression. I’m particularly interested in building models that work reliably with real-world data, from handling differences between imaging devices to designing efficient architectures that can be deployed in practical settings. I also work with attention mechanisms and explainability methods to better understand how models make their predictions.
 
-Currently exploring domain adaptation, learned image compression, and multi-agent NLP pipelines.
+Beyond medical imaging, I have worked with streaming data systems and applied NLP. I’m currently exploring domain adaptation, learned image compression, and multi-agent NLP systems.
 
 ---
 
