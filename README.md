@@ -41,53 +41,61 @@ My current work focuses on problems such as retinopathy of prematurity screening
 Beyond medical imaging, I have worked with streaming data systems and applied NLP. I'm currently exploring domain adaptation, learned image compression, and multi-agent NLP systems.
 
 ---
+---
 
-## Tech Stack
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-**Languages**
+<p align="center"><b>Core Programming Languages</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,r,cpp,c&theme=dark" width="100%" style="max-width: 320px;" alt="Programming Languages" />
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-333333?style=flat-square&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-333333?style=flat-square&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-333333?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-333333?style=flat-square&logo=c&logoColor=white)
+<p align="center"><b>Machine Learning & Deep Learning</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" width="100%" style="max-width: 300px;" alt="Machine Learning and Deep Learning" />
+  </a>
+</p>
 
-**Machine Learning & Deep Learning**
+<p align="center">
+  <img src="https://img.shields.io/badge/Keras-0a0a0a?style=for-the-badge&logo=keras&logoColor=EF4444" alt="Keras" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Scikit-Learn" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=EF4444" alt="NumPy" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-0a0a0a?style=for-the-badge&logo=python&logoColor=EF4444" alt="Matplotlib" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-0a0a0a?style=for-the-badge&logo=python&logoColor=EF4444" alt="Seaborn" />
+</p>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-333333?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-333333?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-333333?style=flat-square&logo=opencv&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-333333?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-333333?style=flat-square&logo=python&logoColor=white)
+<p align="center"><b>Data Engineering, Databases & Web</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kafka,spark,mysql,postgres,mongodb,html,css,js,react&theme=dark" width="100%" style="max-width: 560px;" alt="Data Engineering, Databases and Web" />
+  </a>
+</p>
 
-**Data & Web**
+<p align="center"><b>Tools, Cloud & Platforms</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,jupyter,firebase,gcp,aws&theme=dark" width="100%" style="max-width: 460px;" alt="Tools and Cloud Platforms" />
+  </a>
+</p>
 
-![Apache Kafka](https://img.shields.io/badge/Kafka-333333?style=flat-square&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-333333?style=flat-square&logo=apachespark&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-333333?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-333333?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Colab-0a0a0a?style=for-the-badge&logo=googlecolab&logoColor=EF4444" alt="Google Colab" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-0a0a0a?style=for-the-badge&logo=powerbi&logoColor=EF4444" alt="Power BI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tableau-0a0a0a?style=for-the-badge&logo=tableau&logoColor=EF4444" alt="Tableau" />
+</p>
 
-**Tools, Cloud & Platforms**
-
-![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-333333?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-333333?style=flat-square&logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=flat-square&logo=jupyter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat-square&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-333333?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-333333?style=flat-square&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-333333?style=flat-square&logo=tableau&logoColor=white)
+---
 
 ---
 
