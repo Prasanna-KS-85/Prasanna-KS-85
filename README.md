@@ -116,21 +116,25 @@ Beyond medical imaging, I have worked with streaming data systems and applied NL
 <div align="center">
 
 <a href="https://drive.google.com/file/d/17Pm9l1_gO5b7hAZk6fMBbPRBYhbNwilo/view?usp=sharing">
-  <img src="https://img.shields.io/badge/View%20Resume-333333?style=flat-square&logo=googledrive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/prasanna-kumar-k-s">
-  <img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="mailto:ksprasanna1719@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+&nbsp;
 <a href="https://www.instagram.com/prasanna__85">
-  <img src="https://img.shields.io/badge/Instagram-333333?style=flat-square&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <br/><br/>
 
 <i>Open to research collaborations and internship opportunities.<br/>If something here overlaps with what you're working on, feel free to reach out.</i>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A4A4A,100:111111&height=120&section=footer"/>
 
