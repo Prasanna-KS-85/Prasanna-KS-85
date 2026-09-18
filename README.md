@@ -75,14 +75,14 @@ Beyond medical imaging, I have worked with streaming data systems and applied NL
 <p align="center"><b>Data Engineering, Databases & Web</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kafka,spark,mysql,postgres,mongodb,html,css,js,react&theme=dark" width="100%" style="max-width: 560px;" alt="Data Engineering, Databases and Web" />
+    <img src="https://skillicons.dev/icons?i=kafka,mysql,postgres,mongodb,html,css,js,react&theme=dark" width="100%" style="max-width: 560px;" alt="Data Engineering, Databases and Web" />
   </a>
 </p>
 
 <p align="center"><b>Tools, Cloud & Platforms</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode,jupyter,firebase,gcp,aws&theme=dark" width="100%" style="max-width: 460px;" alt="Tools and Cloud Platforms" />
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,firebase,gcp,aws&theme=dark" width="100%" style="max-width: 460px;" alt="Tools and Cloud Platforms" />
   </a>
 </p>
 
@@ -93,8 +93,6 @@ Beyond medical imaging, I have worked with streaming data systems and applied NL
   &nbsp;
   <img src="https://img.shields.io/badge/Tableau-0a0a0a?style=for-the-badge&logo=tableau&logoColor=EF4444" alt="Tableau" />
 </p>
-
----
 
 ---
 
