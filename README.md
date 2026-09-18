@@ -41,14 +41,13 @@ My current work focuses on problems such as retinopathy of prematurity screening
 Beyond medical imaging, I have worked with streaming data systems and applied NLP. I'm currently exploring domain adaptation, learned image compression, and multi-agent NLP systems.
 
 ---
----
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+<h2 align="center"> Tech Stack & Skills</h2>
 
 <p align="center"><b>Core Programming Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,r,cpp,c&theme=dark" width="100%" style="max-width: 320px;" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=py,java,r&theme=dark" width="100%" style="max-width: 320px;" alt="Programming Languages" />
   </a>
 </p>
 
