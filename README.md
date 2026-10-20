@@ -19,9 +19,9 @@
 
 <br>
 
-I set out to become a doctor and ended up an engineer building AI for medicine. My research covers Retinopathy of Prematurity screening that holds up across different imaging devices, which led to two published patents, and X-ray compression that keeps fractures sharp while shrinking everything around them, now a journal paper under review. Beyond medical imaging, I've built real-time data pipelines and agentic systems.
+I wanted to be a doctor once. That didn't happen, but the interest never really left, so these days I build AI for healthcare instead. Most of my time goes into medical imaging: getting retinal screening for premature babies to work across different cameras, and compressing X-rays without losing the parts doctors actually need to see.
 
-Most recently, I shipped [Laya Triage](https://github.com/Prasanna-KS-85/laya-triage): a fine-tuned 421M-parameter model that runs as a GitHub Action and labels issues only when its calibrated confidence is high. Next, I'm making it faster with ONNX INT8 inference.
+Outside of that, I build whatever catches my curiosity. Lately that's been a real-time data pipeline, an agentic grievance system, and [Laya Triage](https://github.com/Prasanna-KS-85/laya-triage), a small GitHub Action that sorts new issues and hands them to a person whenever it isn't sure.
 
 <br>
 
