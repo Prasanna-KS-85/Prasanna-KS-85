@@ -19,10 +19,9 @@
 
 <br>
 
-Medicine pulled me in, and engineering gave me the tools. Most of my work sits where the two meet: device-agnostic screening for **Retinopathy of Prematurity**, which led to two published patents, and **fracture-aware X-ray compression** that keeps diagnostic regions sharp, now a journal paper under review. Alongside it, I've built streaming data pipelines and agentic systems.
+I set out to become a doctor and ended up an engineer building AI for medicine. My research covers Retinopathy of Prematurity screening that holds up across different imaging devices, which led to two published patents, and X-ray compression that keeps fractures sharp while shrinking everything around them, now a journal paper under review. Beyond medical imaging, I've built real-time data pipelines and agentic systems.
 
-**Latest** &nbsp; [Laya Triage](https://github.com/Prasanna-KS-85/laya-triage), a fine-tuned 421M-parameter model shipped as a GitHub Action that labels issues only when its calibrated confidence is high.<br>
-**Next** &nbsp; ONNX INT8 inference and GPU performance work.
+Most recently, I shipped [Laya Triage](https://github.com/Prasanna-KS-85/laya-triage): a fine-tuned 421M-parameter model that runs as a GitHub Action and labels issues only when its calibrated confidence is high. Next, I'm making it faster with ONNX INT8 inference.
 
 <br>
 
