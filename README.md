@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://prasanna-kumar-ks.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/prasanna-kumar-k-s">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="YOUR-UPDATED-RESUME-LINK">Resume</a> &nbsp;·&nbsp;
+  <a href="https://drive.google.com/file/d/1pYE4ZA_TXGhREA0zDFTuFJwgA-eUNh0Y/view?usp=sharing">Resume</a> &nbsp;·&nbsp;
   <a href="mailto:ksprasanna1719@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://leetcode.com/u/Prasanna__85/">LeetCode</a>
 </p>
