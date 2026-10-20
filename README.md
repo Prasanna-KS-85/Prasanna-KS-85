@@ -6,11 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3200&pause=1200&color=8B8B8B&center=true&vCenter=true&width=620&height=30&lines=Deep+learning+for+medical+imaging;Computer+vision+and+explainable+AI;Models+that+know+when+they're+unsure" alt="Deep learning for medical imaging, computer vision and calibrated ML">
-</p>
-
-<p align="center">
-  M.Tech (Integrated) CSE, Data Science &nbsp;·&nbsp; VIT Vellore
+  M.Tech Data Science student &nbsp;·&nbsp; Medical AI/ML &amp; Computer Vision
 </p>
 
 <p align="center">
