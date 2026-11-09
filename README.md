@@ -1,115 +1,48 @@
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · prasanna-ks-85</sub></p>
-<h1>Prasannakumar K S</h1>
-<h2>Backend or systems engineer</h2>
-<p>Integrated M.Tech Data Science @ VIT Vellore · Medical imaging &amp; computer vision</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Chennai, India</sub></p>
-<p><a href="https://github.com/prasanna-ks-85">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/181253278?u=77ba14e1fd90fdbf8025ec66257d4ecea0d77892&amp;v=4" width="180" alt="Prasannakumar K S GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
-
-<h2>What teams can evaluate quickly</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · Jupyter Notebook · Python · Scala</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>11 repositories · 6 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>432 contributions · 51 active days</p></td>
-</tr>
-</table>
-
-<p><sub>Integrated M.Tech Data Science @ VIT Vellore · Medical imaging &amp; computer vision</sub></p>
-
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>11</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>6</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>432</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>5</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=prasanna-ks-85&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181253278%3Fu%3D77ba14e1fd90fdbf8025ec66257d4ecea0d77892%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=prasanna-ks-85&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181253278%3Fu%3D77ba14e1fd90fdbf8025ec66257d4ecea0d77892%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Prasannakumar K S GitHub proof metrics" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=42&duration=2200&pause=100000&color=E6E6E6&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Prasanna+Kumar+KS">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=42&duration=2200&pause=100000&color=1A1A1A&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Prasanna+Kumar+KS" alt="Prasanna Kumar KS">
+  </picture>
 </p>
 
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=prasanna-ks-85&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181253278%3Fu%3D77ba14e1fd90fdbf8025ec66257d4ecea0d77892%26v%3D4&repos=prasanna-ks-85%2Flaya-triage%2Cprasanna-ks-85%2Fclaude-code-playbook%2Cprasanna-ks-85%2FContext-Aware-Traffic-Risk-Scoring-via-Object-Detection-XAI%2Cprasanna-ks-85%2FReal-Time-Public-Transport-Delay-Analytics-Platform&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=prasanna-ks-85&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181253278%3Fu%3D77ba14e1fd90fdbf8025ec66257d4ecea0d77892%26v%3D4&repos=prasanna-ks-85%2Flaya-triage%2Cprasanna-ks-85%2Fclaude-code-playbook%2Cprasanna-ks-85%2FContext-Aware-Traffic-Risk-Scoring-via-Object-Detection-XAI%2Cprasanna-ks-85%2FReal-Time-Public-Transport-Delay-Analytics-Platform&v=recruiter-projects-1&mode=dark" width="100%" alt="Prasannakumar K S selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Prasanna-KS-85/laya-triage">laya-triage</a></h3>
-<p>Confidence-gated GitHub issue triage powered by a fine-tuned Laya decision model</p>
-<p><sub>Python · ⭐ 1 · 🍴 0</sub></p>
-<p><a href="https://github.com/Prasanna-KS-85/laya-triage">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/Prasanna-KS-85/claude-code-playbook">claude-code-playbook</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Prasanna-KS-85/Context-Aware-Traffic-Risk-Scoring-via-Object-Detection-XAI">Context-Aware-Traffic-Risk-Scoring-via-Object-Detection-XAI</a></h3><p>Dashcam risk scoring on BDD100K: YOLO features, K-Means labels, MLP classifier, SHAP explanations</p><p><sub>Jupyter Notebook · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Prasanna-KS-85/Real-Time-Public-Transport-Delay-Analytics-Platform">Real-Time-Public-Transport-Delay-Analytics-Platform</a></h3><p>CascadeWatch: real-time transit delay analytics with Kafka, Spark Streaming, PostgreSQL and React</p><p><sub>Scala · ⭐ 1</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
-
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=prasanna-ks-85&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181253278%3Fu%3D77ba14e1fd90fdbf8025ec66257d4ecea0d77892%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=prasanna-ks-85&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181253278%3Fu%3D77ba14e1fd90fdbf8025ec66257d4ecea0d77892%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Prasannakumar K S technology stack" />
-</picture>
+  M.Tech Data Science student &nbsp;·&nbsp; Medical AI/ML &amp; Computer Vision
 </p>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>96% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>3% of public code</sub></td>
-<td width="20%" align="center"><strong>Scala</strong><br /><sub>0% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>0% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>0% of public code</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
-
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=prasanna-ks-85&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181253278%3Fu%3D77ba14e1fd90fdbf8025ec66257d4ecea0d77892%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=prasanna-ks-85&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181253278%3Fu%3D77ba14e1fd90fdbf8025ec66257d4ecea0d77892%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Prasannakumar K S contribution activity" />
-</picture>
+  <a href="https://prasanna-kumar-ks.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/prasanna-kumar-k-s">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://drive.google.com/file/d/1pYE4ZA_TXGhREA0zDFTuFJwgA-eUNh0Y/view?usp=sharing">Resume</a> &nbsp;·&nbsp;
+  <a href="mailto:ksprasanna1719@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/Prasanna__85/">LeetCode</a>
 </p>
 
-<hr />
+<br>
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/prasanna-ks-85">GitHub</a></td>
-</tr>
-</table>
+I wanted to be a doctor once. That didn't happen, but the interest never really left, so these days I build AI for healthcare instead. Most of my time goes into medical imaging: getting retinal screening for premature babies to work across different cameras, and compressing X-rays without losing the parts doctors actually need to see.
 
-<p align="center"><sub>Prasannakumar K S · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+Outside of that, I build whatever catches my curiosity. Lately that's been a real-time data pipeline, an agentic grievance system, and [Laya Triage](https://github.com/Prasanna-KS-85/laya-triage), a small GitHub Action that sorts new issues and hands them to a person whenever it isn't sure.
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-222222?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-222222?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/scikit--learn-222222?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/OpenCV-222222?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Hugging%20Face-222222?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
+  <br>
+  <img src="https://img.shields.io/badge/Spark-222222?style=flat-square&logo=apachespark&logoColor=white" alt="Spark">
+  <img src="https://img.shields.io/badge/Kafka-222222?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka">
+  <img src="https://img.shields.io/badge/PostgreSQL-222222?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-222222?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-222222?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Next.js-222222?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+</p>
+
+<br>
+
+<p align="center">
+  <sub><i>Projects, research and the stories behind them live on my <a href="https://prasanna-kumar-ks.vercel.app/">portfolio</a>.</i></sub>
+</p>
