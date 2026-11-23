@@ -19,12 +19,13 @@
 <br>
 
 
-I wanted to be a doctor. That didn't happen, but the pull towards medicine never left, so I followed it through engineering instead, and today I'm a final-year M.Tech Data Science student at VIT Vellore, learning to build AI around healthcare.
+I’m a final-year Integrated M.Tech Data Science student at VIT Vellore, interested in building things at the intersection of AI, research, and real-world problem solving.
 
-Somewhere along the way I realised I fall for anything that needs patience and a bit of creativity. Chess was the first, research came next, and lately it's been UI and UX, which is honestly how this portfolio began.
+My primary interests lie in Medical AI, Computer Vision, and Deep Learning. I enjoy exploring how intelligent systems can be applied to meaningful problems, particularly in healthcare. From experimenting with medical imaging models to building data-driven applications, I like taking ideas beyond theory and turning them into something practical.
 
-Outside all this, I'm a bit of a jack of all trades: the one with all the bad jokes and meme templates, the one who loves turning strangers into friends within a conversation, the one who's a good listener once the jokes run out, and the one who's always curious about other people's ideas, and happy to pick up something new from them.
+Beyond the technical side, I'm someone who enjoys exploring different fields, experimenting with new ideas, and learning from the people around me. Chess, UI/UX, and the occasional rabbit hole of random curiosity keep me occupied outside the code.
 
+I believe there's always something interesting to build, something new to learn, and probably a better way to solve the next problem.
 <br>
 
 <p align="center">
