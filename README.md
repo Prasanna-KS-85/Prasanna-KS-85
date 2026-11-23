@@ -26,29 +26,17 @@ Somewhere along the way I realised I fall for anything that needs patience and a
 
 Outside all this, I'm a bit of a jack of all trades: the one with all the bad jokes and meme templates, the one who loves turning strangers into friends within a conversation, the one who's a good listener once the jokes run out, and the one who's always curious about other people's ideas, and happy to pick up something new from them.
 
-**A few things I'm into**
-
-AI/ML · Data Science · Computer Vision · AI for Healthcare · UI/UX Experiments · Chess
-
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-222222?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-222222?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/scikit--learn-222222?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/OpenCV-222222?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Hugging%20Face-222222?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/AI%2FML-222222?style=flat-square&labelColor=222222&color=222222" alt="AI/ML">
+  <img src="https://img.shields.io/badge/Data%20Science-222222?style=flat-square&labelColor=222222&color=222222" alt="Data Science">
+  <img src="https://img.shields.io/badge/Computer%20Vision-222222?style=flat-square&labelColor=222222&color=222222" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/Healthcare%20AI-222222?style=flat-square&labelColor=222222&color=222222" alt="Healthcare AI">
   <br>
-  <img src="https://img.shields.io/badge/Spark-222222?style=flat-square&logo=apachespark&logoColor=white" alt="Spark">
-  <img src="https://img.shields.io/badge/Kafka-222222?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka">
-  <img src="https://img.shields.io/badge/PostgreSQL-222222?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-222222?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-222222?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Next.js-222222?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/UI%2FUX%20Experiments-222222?style=flat-square&labelColor=222222&color=222222" alt="UI/UX Experiments">
+  <img src="https://img.shields.io/badge/Chess-222222?style=flat-square&labelColor=222222&color=222222" alt="Chess">
 </p>
-
-
 
 
 ### Contribution Streak
