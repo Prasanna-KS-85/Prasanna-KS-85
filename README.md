@@ -19,9 +19,16 @@
 
 <br>
 
-I wanted to be a doctor once. That didn't happen, but the interest never really left, so these days I build AI for healthcare instead. Most of my time goes into medical imaging: getting retinal screening for premature babies to work across different cameras, and compressing X-rays without losing the parts doctors actually need to see.
 
-Outside of that, I build whatever catches my curiosity. Lately that's been a real-time data pipeline, an agentic grievance system, and [Laya Triage](https://github.com/Prasanna-KS-85/laya-triage), a small GitHub Action that sorts new issues and hands them to a person whenever it isn't sure.
+I wanted to be a doctor. That didn't happen, but the pull towards medicine never left, so I followed it through engineering instead, and today I'm a final-year M.Tech Data Science student at VIT Vellore, learning to build AI around healthcare.
+
+Somewhere along the way I realised I fall for anything that needs patience and a bit of creativity. Chess was the first, research came next, and lately it's been UI and UX, which is honestly how this portfolio began.
+
+Outside all this, I'm a bit of a jack of all trades: the one with all the bad jokes and meme templates, the one who loves turning strangers into friends within a conversation, the one who's a good listener once the jokes run out, and the one who's always curious about other people's ideas, and happy to pick up something new from them.
+
+**A few things I'm into**
+
+AI/ML · Data Science · Computer Vision · AI for Healthcare · UI/UX Experiments · Chess
 
 <br>
 
