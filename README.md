@@ -41,18 +41,6 @@ Outside of that, I build whatever catches my curiosity. Lately that's been a rea
   <img src="https://img.shields.io/badge/Next.js-222222?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
 </p>
 
-<br>
-
-<!-- GitHub Contribution Activity Graph -->
-<p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Prasanna-KS-85&bg_color=0d0d0d&color=ffffff&line=808080&point=ffffff&area=true&area_color=333333&hide_border=true"
-    alt="Prasanna's GitHub Activity Graph"
-  />
-</p>
-
-<br>
 
 
 
