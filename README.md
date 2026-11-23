@@ -56,5 +56,6 @@ Outside all this, I'm a bit of a jack of all trades: the one with all the bad jo
 ---
 
 <p align="center">
-  <sub><i>Projects, research and the stories behind them live on my <a href="https://prasanna-kumar-ks.vercel.app/">portfolio</a>.</i></sub>
+  <sub><i>I like putting what I learn into practice, building things out of curiosity, and occasionally turning random ideas into something real. You can find some of them on my <a href="https://prasanna-kumar-ks.vercel.app/">portfolio</a>.</i></sub>
 </p>
+
