@@ -45,7 +45,11 @@ Outside of that, I build whatever catches my curiosity. Lately that's been a rea
 
 <!-- GitHub Contribution Activity Graph -->
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prasanna-KS-85&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Prasanna's GitHub Activity Graph">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Prasanna-KS-85&bg_color=0d0d0d&color=ffffff&line=808080&point=ffffff&area=true&area_color=333333&hide_border=true"
+    alt="Prasanna's GitHub Activity Graph"
+  />
 </p>
 
 <br>
