@@ -54,6 +54,34 @@ Outside of that, I build whatever catches my curiosity. Lately that's been a rea
 
 <br>
 
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prasanna-KS-85&theme=github_dark" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prasanna-KS-85&theme=github_dark" alt="Top Languages"/>
+</p>
+
+---
+
+### Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prasanna-KS-85&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=999999&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=333333&border_radius=10" alt="GitHub Streak Stats"/>
+</p>
+
+---
+
+### Contribution Activity
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prasanna-KS-85&bg_color=0D0D0D&color=FFFFFF&line=999999&point=FFFFFF&area=true&area_color=333333&hide_border=true" alt="GitHub Contribution Activity Graph"/>
+</p>
+
+---
+
 <p align="center">
   <sub><i>Projects, research and the stories behind them live on my <a href="https://prasanna-kumar-ks.vercel.app/">portfolio</a>.</i></sub>
 </p>
