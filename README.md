@@ -43,6 +43,13 @@ Outside of that, I build whatever catches my curiosity. Lately that's been a rea
 
 <br>
 
+<!-- GitHub Contribution Activity Graph -->
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prasanna-KS-85&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Prasanna's GitHub Activity Graph">
+</p>
+
+<br>
+
 <p align="center">
   <sub><i>Projects, research and the stories behind them live on my <a href="https://prasanna-kumar-ks.vercel.app/">portfolio</a>.</i></sub>
 </p>
