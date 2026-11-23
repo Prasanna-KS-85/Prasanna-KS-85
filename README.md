@@ -54,17 +54,7 @@ Outside of that, I build whatever catches my curiosity. Lately that's been a rea
 
 <br>
 
----
 
-### GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prasanna-KS-85&theme=github_dark" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prasanna-KS-85&theme=github_dark" alt="Top Languages"/>
-</p>
-
----
 
 ### Contribution Streak
 
