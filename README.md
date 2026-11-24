@@ -52,7 +52,14 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
 -->
 ---
 
-### Contribution Activity
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=25&duration=3000&pause=100000&color=E6E6E6&center=true&vCenter=true&repeat=false&width=700&height=45&lines=A+trace+of+the+work%2C+one+day+at+a+time."
+    alt="A trace of the work, one day at a time."
+  />
+</p>
+
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prasanna-KS-85&bg_color=0D0D0D&color=FFFFFF&line=999999&point=FFFFFF&area=true&area_color=333333&hide_border=true" alt="GitHub Contribution Activity Graph"/>
