@@ -93,31 +93,37 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
 
 <br>
 
-<p align="center">
-  <sub><b>BEYOND THE CODE</b></sub>
-  <br><br>
-  <a href="https://www.chess.com/member/illblunder">
-    <img
-      src="https://chess-profile-widget.onrender.com/widget?platform=chess-dot-com&username=illblunder&theme=github-dark&logo=true"
-      alt="Chess.com profile - illblunder"
-    />
-  </a>
-</p>
 
 <br>
 
-<br>
+<p align="center"><b>BEYOND THE CODE</b></p>
 
-<p align="center">
-  <sub><b>LEETCODE</b></sub>
-  <br><br>
-  <a href="https://leetcode.com/u/Prasanna__85/">
-    <img
-      src="https://leetcard.jacoblin.cool/Prasanna__85?theme=dark&font=Inter&border=0&radius=8&animation=false"
-      alt="LeetCode Stats"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <sub><b>CHESS.COM</b></sub>
+      <br><br>
+      <a href="https://www.chess.com/member/illblunder">
+        <img
+          src="https://chess-profile-widget.onrender.com/widget?platform=chess-dot-com&username=illblunder&theme=github-dark&logo=true"
+          width="100%"
+          alt="Chess.com Profile"
+        />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <sub><b>LEETCODE</b></sub>
+      <br><br>
+      <a href="https://leetcode.com/u/Prasanna__85/">
+        <img
+          src="https://leetcard.jacoblin.cool/Prasanna__85?theme=dark&font=Inter&border=0&radius=8&animation=false"
+          width="100%"
+          alt="LeetCode Stats"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
