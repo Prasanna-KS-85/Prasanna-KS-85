@@ -64,7 +64,7 @@ I believe there's always something interesting to build, something new to learn,
 <p align="center">
   <sub>
     A little dump of things that I have been building — 
-    <a href="https://prasanna-kumar-ks.vercel.app/"><b>here's what I've been up to ↗ 👇🏻</b></a>
+    <a href="https://prasanna-kumar-ks.vercel.app/"><b>here's what I've been up to ↗ 👇🏻!</b></a>
   </sub>
 </p>
 
