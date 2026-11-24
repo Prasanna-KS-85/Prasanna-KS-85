@@ -4,9 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=42&duration=2200&pause=100000&color=1A1A1A&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Prasanna+Kumar+KS" alt="Prasanna Kumar KS">
   </picture>
 </p>
-<p align="center">
-  M.Tech Data Science student &nbsp;·&nbsp; Medical AI/ML &amp; Computer Vision
-</p>
 
 <p align="center">
   <a href="https://prasanna-kumar-ks.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
