@@ -62,10 +62,11 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=25&duration=3000&pause=100000&color=E6E6E6&center=true&vCenter=true&repeat=false&width=700&height=45&lines=Curiosity+starts+it.+Building+brings+it+to+life."
-    alt="Curiosity starts it. Building brings it to life."
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=25&duration=3000&pause=100000&color=E6E6E6&center=true&vCenter=true&repeat=false&width=700&height=45&lines=Research%2C+ideas%2C+experiments%2C+and+everything+in+between."
+    alt="Research, ideas, experiments, and everything in between."
   />
 </p>
+
 
 
 <p align="center">
