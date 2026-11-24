@@ -99,6 +99,7 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
 
 
 <br>
+---
 
 
 <p align="center">
