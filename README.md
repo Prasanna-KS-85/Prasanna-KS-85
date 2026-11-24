@@ -91,4 +91,18 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
 </p>
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
+<br>
+
+<p align="center">
+  <sub><b>BEYOND THE CODE</b></sub>
+  <br><br>
+  <a href="https://www.chess.com/member/illblunder">
+    <img
+      src="https://chess-profile-widget.onrender.com/widget?platform=chess-dot-com&username=illblunder&theme=github-dark&logo=true"
+      alt="Chess.com profile - illblunder"
+    />
+  </a>
+</p>
+
+<br>
+
