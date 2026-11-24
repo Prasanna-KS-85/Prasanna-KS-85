@@ -60,14 +60,16 @@ I believe there's always something interesting to build, something new to learn,
 </p>
 
 
+
 <p align="center">
   <a href="https://prasanna-kumar-ks.vercel.app/">
     <img
-      src="assets/portfolio-preview.gif"
+      src="assets/Picture.png"
       width="100%"
       alt="Explore my portfolio"
     />
   </a>
 </p>
+
 
 
