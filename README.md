@@ -88,7 +88,7 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
       <br><br>
       <a href="https://www.chess.com/member/illblunder">
         <img
-          src="https://chess-profile-widget.onrender.com/widget?platform=chess-dot-com&username=illblunder&theme=github-dark&logo=true"
+          src="https://chess-profile-widget.onrender.com/widget?platform=chess-dot-com&username=illblunder&theme=black&logo=true"
           width="100%"
           alt="Chess.com Profile"
         />
