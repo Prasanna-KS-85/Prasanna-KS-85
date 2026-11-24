@@ -35,13 +35,14 @@ I believe there's always something interesting to build, something new to learn,
   <img src="https://img.shields.io/badge/Chess-222222?style=flat-square&labelColor=222222&color=222222" alt="Chess">
 </p>
 
+<!-- 
 
 ### Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Prasanna-KS-85&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=999999&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=333333&border_radius=10" alt="GitHub Streak Stats"/>
 </p>
-
+-->
 ---
 
 ### Contribution Activity
