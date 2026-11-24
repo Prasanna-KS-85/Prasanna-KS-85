@@ -71,8 +71,8 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
 
 
 <br>
+<!-- Horizontal divider -->
 ---
-
 
 <p align="center">
   <img
@@ -81,6 +81,7 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
   />
 </p>
 
+<!-- Chess + LeetCode side-by-side table goes here -->
 
 
 <table>
