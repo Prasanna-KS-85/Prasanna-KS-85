@@ -97,7 +97,7 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
       <br><br>
       <a href="https://leetcode.com/u/Prasanna__85/">
         <img
-          src="https://leetcard.jacoblin.cool/Prasanna__85?theme=dark&font=Inter&border=0&radius=8&animation=false"
+          src="https://leetcard.jacoblin.cool/Prasanna__85?theme=dark&font=Inter&border=0&radius=8&animation=true"
           width="100%"
           alt="LeetCode Stats"
         />
