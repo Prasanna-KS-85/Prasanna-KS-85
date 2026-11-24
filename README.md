@@ -25,34 +25,6 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
 <br>
 
 
-<!-- 
-
-<p align="center">
-  <sub><b>AREAS I EXPLORE</b></sub>
-  <br><br>
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-222222?style=flat-square&labelColor=222222&color=222222" alt="AI / ML">
-  <img src="https://img.shields.io/badge/Data%20Science-222222?style=flat-square&labelColor=222222&color=222222" alt="Data Science">
-  <img src="https://img.shields.io/badge/Computer%20Vision-222222?style=flat-square&labelColor=222222&color=222222" alt="Computer Vision">
-  <img src="https://img.shields.io/badge/Healthcare%20AI-222222?style=flat-square&labelColor=222222&color=222222" alt="Healthcare AI">
-  <br><br>
-  <sub><b>OUTSIDE THE TECHNICAL SIDE</b></sub>
-  <br><br>
-  <img src="https://img.shields.io/badge/UI%20%2F%20UX-222222?style=flat-square&labelColor=222222&color=222222" alt="UI / UX">
-  <img src="https://img.shields.io/badge/Chess-222222?style=flat-square&labelColor=222222&color=222222" alt="Chess">
-</p>
-
--->
-<!-- 
-
-### Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prasanna-KS-85&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=999999&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=333333&border_radius=10" alt="GitHub Streak Stats"/>
-</p>
--->
----
-
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=25&duration=3000&pause=100000&color=E6E6E6&center=true&vCenter=true&repeat=false&width=700&height=45&lines=A+trace+of+the+work%2C+one+day+at+a+time."
