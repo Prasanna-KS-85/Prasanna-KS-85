@@ -63,7 +63,7 @@ I believe there's always something interesting to build, something new to learn,
 <p align="center">
   <a href="https://prasanna-kumar-ks.vercel.app/">
     <img
-      src="assets/Gif.gif"
+      src="assets/portfolio-preview.gif"
       width="100%"
       alt="Explore my portfolio"
     />
