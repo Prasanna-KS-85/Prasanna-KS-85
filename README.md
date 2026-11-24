@@ -60,14 +60,14 @@ I believe there's always something interesting to build, something new to learn,
   />
 </p>
 
+
 <p align="center">
   <sub>
-    I enjoy exploring ideas, learning by doing, and turning things I find interesting into something real.
-    <br>
-    Here's a little more of what I've been building.
-    <a href="https://prasanna-kumar-ks.vercel.app/"><b>Explore my portfolio ↗</b></a>
+    A little dump of things that I have been building — 
+    <a href="https://prasanna-kumar-ks.vercel.app/"><b>here's what I've been up to ↗</b></a>
   </sub>
 </p>
+
 
 
 
