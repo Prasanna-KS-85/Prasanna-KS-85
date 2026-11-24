@@ -93,10 +93,17 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
 
 <br>
 
-<!-- 
+
 <br>
 
-<p align="center"><b>BEYOND THE CODE</b></p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=25&duration=3000&pause=100000&color=E6E6E6&center=true&vCenter=true&repeat=false&width=700&height=45&lines=A+log+of+moves%2C+solves%2C+and+small+wins."
+    alt="A log of moves, solves, and small wins."
+  />
+</p>
+
 
 <table>
   <tr>
@@ -126,5 +133,5 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
 </table>
 
 <br>
--->
+
 
