@@ -25,6 +25,7 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
 <br>
 
 
+<!-- 
 
 <p align="center">
   <sub><b>AREAS I EXPLORE</b></sub>
@@ -40,7 +41,7 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
   <img src="https://img.shields.io/badge/Chess-222222?style=flat-square&labelColor=222222&color=222222" alt="Chess">
 </p>
 
-
+-->
 <!-- 
 
 ### Contribution Streak
