@@ -91,4 +91,4 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
 </p>
 
 
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
