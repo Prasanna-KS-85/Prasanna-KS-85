@@ -13,27 +13,33 @@
   <a href="https://leetcode.com/u/Prasanna__85/">LeetCode</a>
 </p>
 
+
+<br>
+
+I'm a final-year Integrated M.Tech Data Science student at VIT Vellore. I'm interested in the ways AI and research can be applied to problems that matter, particularly in healthcare.
+
+A lot of my work and curiosity revolve around Medical AI, Computer Vision, and Deep Learning. I enjoy experimenting with medical imaging, understanding how models work, and exploring ways to make technical ideas useful beyond the research setting.
+
+Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that have little to do with my coursework. I'm generally curious about how things work and enjoy learning from different fields and perspectives.
+
 <br>
 
 
-I’m a final-year Integrated M.Tech Data Science student at VIT Vellore, interested in building things at the intersection of AI, research, and real-world problem solving.
-
-My primary interests lie in Medical AI, Computer Vision, and Deep Learning. I enjoy exploring how intelligent systems can be applied to meaningful problems, particularly in healthcare. From experimenting with medical imaging models to building data-driven applications, I like taking ideas beyond theory and turning them into something practical.
-
-Beyond the technical side, I'm someone who enjoys exploring different fields, experimenting with new ideas, and learning from the people around me. Chess, UI/UX, and the occasional rabbit hole of random curiosity keep me occupied outside the code.
-
-I believe there's always something interesting to build, something new to learn, and probably a better way to solve the next problem.
-<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-222222?style=flat-square&labelColor=222222&color=222222" alt="AI/ML">
+  <sub><b>AREAS I EXPLORE</b></sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-222222?style=flat-square&labelColor=222222&color=222222" alt="AI / ML">
   <img src="https://img.shields.io/badge/Data%20Science-222222?style=flat-square&labelColor=222222&color=222222" alt="Data Science">
   <img src="https://img.shields.io/badge/Computer%20Vision-222222?style=flat-square&labelColor=222222&color=222222" alt="Computer Vision">
   <img src="https://img.shields.io/badge/Healthcare%20AI-222222?style=flat-square&labelColor=222222&color=222222" alt="Healthcare AI">
-  <br>
-  <img src="https://img.shields.io/badge/UI%2FUX%20Experiments-222222?style=flat-square&labelColor=222222&color=222222" alt="UI/UX Experiments">
+  <br><br>
+  <sub><b>OUTSIDE THE TECHNICAL SIDE</b></sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/UI%20%2F%20UX-222222?style=flat-square&labelColor=222222&color=222222" alt="UI / UX">
   <img src="https://img.shields.io/badge/Chess-222222?style=flat-square&labelColor=222222&color=222222" alt="Chess">
 </p>
+
 
 <!-- 
 
