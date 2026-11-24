@@ -55,8 +55,21 @@ I believe there's always something interesting to build, something new to learn,
 
 ---
 
+
 <p align="center">
-  <sub><i>I like putting what I learn into practice, building things out of curiosity, and occasionally turning random ideas into something real. You can find some of them on my <a href="https://prasanna-kumar-ks.vercel.app/">portfolio</a>.</i></sub>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=25&duration=3000&pause=100000&color=E6E6E6&center=true&vCenter=true&repeat=false&width=700&height=45&lines=Curiosity+starts+it.+Building+brings+it+to+life."
+    alt="Curiosity starts it. Building brings it to life."
+  />
+</p>
+
+<p align="center">
+  <sub>
+    I enjoy exploring ideas, learning by doing, and turning things I find interesting into something real.
+    <br>
+    Here's a little more of what I've been building.
+    <a href="https://prasanna-kumar-ks.vercel.app/"><b>Explore my portfolio ↗</b></a>
+  </sub>
 </p>
 
 
