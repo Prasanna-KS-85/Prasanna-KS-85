@@ -93,7 +93,7 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
 
 <br>
 
-
+<!-- 
 <br>
 
 <p align="center"><b>BEYOND THE CODE</b></p>
@@ -126,4 +126,5 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
 </table>
 
 <br>
+-->
 
