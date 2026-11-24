@@ -99,7 +99,7 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
 
 
 <br>
----
+
 
 <p align="center">
   <img
@@ -107,6 +107,7 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
     alt="A log of moves, solves, and small wins."
   />
 </p>
+
 
 
 <table>
