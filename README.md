@@ -68,9 +68,6 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
     />
   </a>
 </p>
-
-
-<br>
 <!-- Horizontal divider -->
 ---
 
