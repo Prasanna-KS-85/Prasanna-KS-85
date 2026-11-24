@@ -59,9 +59,15 @@ I believe there's always something interesting to build, something new to learn,
   <sub><i>I like putting what I learn into practice, building things out of curiosity, and occasionally turning random ideas into something real. You can find some of them on my <a href="https://prasanna-kumar-ks.vercel.app/">portfolio</a>.</i></sub>
 </p>
 
+
 <p align="center">
   <a href="https://prasanna-kumar-ks.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=222222" />
+    <img
+      src="assets/Gif.gif"
+      width="100%"
+      alt="Explore my portfolio"
+    />
   </a>
 </p>
+
 
