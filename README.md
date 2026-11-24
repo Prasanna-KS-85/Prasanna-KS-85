@@ -37,7 +37,6 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prasanna-KS-85&bg_color=0D0D0D&color=FFFFFF&line=999999&point=FFFFFF&area=true&area_color=333333&hide_border=true" alt="GitHub Contribution Activity Graph"/>
 </p>
 
----
 
 
 <p align="center">
@@ -68,8 +67,7 @@ Outside academics, I enjoy chess, exploring UI/UX, and picking up interests that
     />
   </a>
 </p>
-<!-- Horizontal divider -->
----
+
 
 <p align="center">
   <img
